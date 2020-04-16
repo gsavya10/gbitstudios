@@ -1898,7 +1898,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       color: white;
     }
     .banner-area .banner-content .left-part p {
-      max-width: 510px; 
+      max-width: 450px; 
       color: white;
     }
     @media (max-width: 767px) {
